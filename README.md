@@ -2,4 +2,6 @@
 
 A Data-Driven Analysis of Human Movement Using Multi-Location Inertial Sensors
 
+https://archive.ics.uci.edu/dataset/231/pamap2+physical+activity+monitoring
+
 <img width="1007" height="624" alt="Screenshot 2026-09-07 at 9 45 25 PM" src="https://github.com/user-attachments/assets/1c7444f0-f940-4883-b43d-6190b883540d" />
