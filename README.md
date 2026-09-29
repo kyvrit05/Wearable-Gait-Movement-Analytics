@@ -1,6 +1,6 @@
 # Wearable Sensor Human Activity Recognition — PAMAP2
 
-A data analytics and machine learning case study using the **PAMAP2 Physical Activity Monitoring Dataset** to investigate how wearable sensor placement affects human activity recognition.
+A data analytics case study using the **PAMAP2 Physical Activity Monitoring Dataset** to investigate how wearable sensor placement affects human activity recognition.
 
 The project analyzes data from wrist, chest, and ankle IMUs alongside heart rate to classify six everyday activities:
 
